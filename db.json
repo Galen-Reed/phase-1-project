@@ -1,0 +1,46 @@
+{
+    "cards": [
+        {
+            "name": "Black Lotus",
+            "text": "Adds 3 mana of any single color of your choice to your mana pool, then is discarded. Tapping this artifact can be played as an interrupt.",
+            "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=600&type=card",
+            "manaCost": "0",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Lightning Bolt",
+            "text": "Lightning Bolt does 3 damage to one target.",
+            "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=806&type=card",
+            "manaCost": "R",
+            "rarity": "Common"
+        },
+        {
+            "name": "Birds of Paradise",
+            "text": "Flying, Tap to add one mana of any color to your mana pool. This tap may be played as an interrupt.",
+            "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=739&type=card",
+            "manaCost": "G",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Counterspell",
+            "text": "Counters target spell as it is being cast.",
+            "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=699&type=card",
+            "manaCost": "UU",
+            "rarity": "Uncommon"
+        },
+        {
+            "name": "Wrath of God",
+            "text": "All creatures in play are destroyed and cannot regenerate.",
+            "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=874&type=card",
+            "manaCost": "2WW",
+            "rarity": "Rare"
+        },
+        {
+            "name": "Dark Ritual",
+            "text": "Add 3 black mana to your mana pool.",
+            "imageUrl": "https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=651&type=card",
+            "manaCost": "B",
+            "rarity": "Common"
+        }
+    ]
+}
