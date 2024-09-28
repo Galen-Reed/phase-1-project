@@ -10,8 +10,15 @@
     padding: 10px;
     width: 150px; /* Adjust width as needed */
     text-align: center;
+    background-color: gray;
 }
 .card img {
     width: 100%; /* Make the image responsive */
     height: auto; /* Maintain aspect ratio */
+}
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/a/aa/Magic_the_gathering-card_back.jpg");
+}
+#list-container {
+    background-color: gray;
 }
