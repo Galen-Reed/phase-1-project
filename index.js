@@ -41,6 +41,12 @@ function cardDisplay(data) {
         rarity.textContent = '';
     })
 
+    cardName.addEventListener("click", function(event) {
+       const newItem = document.createElement('li');
+       newItem.textContent = data.name;
+       document.getElementById('list-container').appendChild(newItem); 
+    })
+
     const cardText = document.createElement('p');
     cardText.textContent = data.text;
 
@@ -48,7 +54,6 @@ function cardDisplay(data) {
 
     cardContainer.appendChild(cardDiv);
 }
-
 /*
 cardForm.addEventListener("submit", function(event) {
     event.preventDefault();
