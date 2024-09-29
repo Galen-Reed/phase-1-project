@@ -43,8 +43,10 @@ function cardDisplay(data) {
 
     cardName.addEventListener("click", function(event) {
        const newItem = document.createElement('li');
+       const listContainer = document.getElementById('list-container');
        newItem.textContent = data.name;
-       document.getElementById('list-container').appendChild(newItem); 
+       listContainer.appendChild(newItem); 
+       listContainer.style.display= "block";
     })
 
     const cardText = document.createElement('p');
