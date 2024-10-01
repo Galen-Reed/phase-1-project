@@ -2,13 +2,13 @@
 
 MTG Oracle is a web application that displays Magic: The Gathering cards from a JSON server. This app fetches data from the JSON file and dynamically displays it. 
 
-# Features
+## Features
 
 - displays card details including name, image, and abilities
 - allows users to create a list of cards
 - has a responsive design
 
-# Installation
+## Installation
 
 To run MTG Oracle locally, follow the below steps:
 1. Clone the repository:
@@ -23,14 +23,14 @@ To run MTG Oracle locally, follow the below steps:
 4. Run a local server to view the app:
 
    ```live-server```
-# Usage
+## Usage
 
 1. Once the app is loaded you can:
 - View the list of magic cards
 - Hover over a card image to get more details including mana cost and rarity
 - Click on the card name to add it to a list at the bottom
 
-# Contributions
+## Contributions
 
 If you'd like to contribute to MTG Oracle please do the following:
 1. Fork this repository.
@@ -44,4 +44,5 @@ If you'd like to contribute to MTG Oracle please do the following:
 
    ``` git push origin featurename/your-feature ```
 
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
