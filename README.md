@@ -36,13 +36,13 @@ If you'd like to contribute to MTG Oracle please do the following:
 1. Fork this repository.
 2. Create a new branch for your feature:
 
-   ``` git checkout checkout -b featurename/your-feature```
+   ``` git checkout checkout -b feature/your-feature```
 3. Commit changes:
 
    ```git commit -m "new feature added"```
 4. Push to new branch:
 
-   ``` git push origin featurename/your-feature ```
+   ``` git push origin feature/your-feature ```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
