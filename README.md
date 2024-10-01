@@ -1,4 +1,4 @@
-# Magic the Gathering Oracle
+# Magic: the Gathering Oracle
 
 MTG Oracle is a web application that displays Magic: The Gathering cards from a JSON server. This app fetches data from the JSON file and dynamically displays it. 
 
