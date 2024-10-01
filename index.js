@@ -44,8 +44,9 @@ function cardDisplay(data) {
     cardName.addEventListener("click", function(event) {
        const newItem = document.createElement('li');
        const listContainer = document.getElementById('list-container');
+       const list = document.getElementById('list');
        newItem.textContent = data.name;
-       listContainer.appendChild(newItem); 
+       list.appendChild(newItem); 
        listContainer.style.display= "block";
     })
 
