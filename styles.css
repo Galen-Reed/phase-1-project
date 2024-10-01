@@ -40,8 +40,13 @@ html {
 ul {
     list-style-type: none;
     text-align: center;
-    margin:auto;
+    padding: 0;
+    margin: 0;
     width: fit-content;
+}
+ul li {
+    text-align: center;
+    padding: 5px;
 }
 h1 {
     margin:auto;
